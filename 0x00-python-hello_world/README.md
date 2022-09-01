@@ -1,1 +1,1 @@
-Read me file for python
+This is the dirctory for Python - Hello, World
